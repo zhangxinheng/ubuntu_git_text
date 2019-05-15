@@ -53,5 +53,5 @@ namespace SortTextHelper{
         copy(a,a+n,arr);
         return arr;
     }
-}
+}//
 #endif //UNTITLED_SORTTEXTHELPER_H
