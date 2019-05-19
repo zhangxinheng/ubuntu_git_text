@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scrapy/CLionProjects/untitled2/Heap.h
+iostream
+-
+stdlib.h
+-
+
+/home/scrapy/CLionProjects/untitled2/SortTextHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+stdlib.h
+-
+time.h
+-
+
+/home/scrapy/CLionProjects/untitled2/Student.h
+iostream
+-
+string
+-
+
+/home/scrapy/CLionProjects/untitled2/main.cpp
+iostream
+-
+stdlib.h
+-
+SortTextHelper.h
+/home/scrapy/CLionProjects/untitled2/SortTextHelper.h
+Student.h
+/home/scrapy/CLionProjects/untitled2/Student.h
+Heap.h
+/home/scrapy/CLionProjects/untitled2/Heap.h
+
