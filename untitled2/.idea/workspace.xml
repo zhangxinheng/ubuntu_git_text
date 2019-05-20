@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edc0b86d-33a9-4d7b-9e5c-afe899d599cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/untitled2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/SortTextHelper.h" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/SortTextHelper.h" afterDir="false" />
@@ -31,6 +30,9 @@
       <change beforePath="$PROJECT_DIR$/../untitled/cmake-build-debug/untitled.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/cmake-build-debug/untitled.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled2.cbp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +61,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="55">
-              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="1378">
+              <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#134#146#0" expanded="true" />
@@ -75,11 +77,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IndexMaxHeap.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="104" column="29" lean-forward="true" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
+              <folding>
+                <element signature="e#106#125#0" expanded="true" />
+                <element signature="e#176#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Heap.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="832">
-              <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+            <state relative-caret-position="391">
+              <caret line="83" column="2" lean-forward="true" selection-start-line="7" selection-end-line="83" selection-end-column="2" />
               <folding>
                 <element signature="e#91#110#0" expanded="true" />
                 <element signature="e#161#176#0" expanded="true" />
@@ -124,16 +139,7 @@
         <option value="$PROJECT_DIR$/SortTextHelper.h" />
         <option value="$PROJECT_DIR$/Heap.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/untitled2.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/IndexMaxHeap.h" />
       </list>
     </option>
   </component>
@@ -164,6 +170,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -208,12 +215,12 @@
       <workItem from="1558263510881" duration="67000" />
       <workItem from="1558263781809" duration="32000" />
       <workItem from="1558263833035" duration="155000" />
-      <workItem from="1558264576724" duration="10639000" />
+      <workItem from="1558264576724" duration="13999000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13684000" />
+    <option name="totallyTimeSpent" value="17044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -226,7 +233,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="29" width="1366" height="687" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21775417" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -277,10 +283,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="19" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#134#146#0" expanded="true" />
+            <element signature="e#366#378#0" expanded="true" />
+            <element signature="e#539#551#0" expanded="true" />
+            <element signature="e#537#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Heap.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="78" column="21" lean-forward="true" selection-start-line="78" selection-start-column="21" selection-end-line="78" selection-end-column="21" />
+        <state relative-caret-position="391">
+          <caret line="83" column="2" lean-forward="true" selection-start-line="7" selection-end-line="83" selection-end-column="2" />
           <folding>
             <element signature="e#91#110#0" expanded="true" />
             <element signature="e#161#176#0" expanded="true" />
@@ -288,16 +308,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/IndexMaxHeap.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="160">
+          <caret line="104" column="29" lean-forward="true" selection-start-line="104" selection-start-column="29" selection-end-line="104" selection-end-column="29" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#134#146#0" expanded="true" />
-            <element signature="e#366#378#0" expanded="true" />
-            <element signature="e#539#551#0" expanded="true" />
-            <element signature="e#537#549#0" expanded="true" />
+            <element signature="e#106#125#0" expanded="true" />
+            <element signature="e#176#191#0" expanded="true" />
           </folding>
         </state>
       </provider>
